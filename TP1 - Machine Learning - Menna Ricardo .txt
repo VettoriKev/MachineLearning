@@ -1,0 +1,11 @@
+  El cuarteto de Anscombe nos hace ver la importancia de la presentación de los datos, ya que, 
+los parámetros estadísticos de los cuatro datasets son idénticos. Sin embargo, al graficarlos
+se puede apreciar la diferencia entre estos.
+  Para poder ubicar los cuatro nuevos datos en sus datasets correspondientes, grafiqué todos 
+los valores con Excel y coloqué cada nuevo dato para ver en cual encajaban mejor. Los resultados
+obtenidos son los siguientes:
+
+-[16,8]  lo ubico en el dataset I
+-[8,6]   lo ubico en el dataset IV
+-[16,10] lo ubico en el dataset III
+-[16,6]  lo ubico en el dataset II
