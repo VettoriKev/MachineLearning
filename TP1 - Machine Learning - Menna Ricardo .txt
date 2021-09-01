@@ -9,3 +9,7 @@ obtenidos son los siguientes:
 -[8,6]   lo ubico en el dataset IV
 -[16,10] lo ubico en el dataset III
 -[16,6]  lo ubico en el dataset II
+
+
+
+F
